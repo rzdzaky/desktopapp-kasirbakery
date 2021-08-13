@@ -1,0 +1,13 @@
+C:\Users\ZAKI\source\repos\AplikasiBakery\AplikasiBakery\obj\Debug\netcoreapp3.0\AplikasiBakery.vbprojAssemblyReference.cache
+C:\Users\ZAKI\source\repos\AplikasiBakery\AplikasiBakery\obj\Debug\netcoreapp3.0\AplikasiBakery.FormCariMenu.resources
+C:\Users\ZAKI\source\repos\AplikasiBakery\AplikasiBakery\obj\Debug\netcoreapp3.0\AplikasiBakery.FormDashboard.resources
+C:\Users\ZAKI\source\repos\AplikasiBakery\AplikasiBakery\obj\Debug\netcoreapp3.0\AplikasiBakery.FormLaporan.resources
+C:\Users\ZAKI\source\repos\AplikasiBakery\AplikasiBakery\obj\Debug\netcoreapp3.0\AplikasiBakery.FormLogin.resources
+C:\Users\ZAKI\source\repos\AplikasiBakery\AplikasiBakery\obj\Debug\netcoreapp3.0\AplikasiBakery.FormNota.resources
+C:\Users\ZAKI\source\repos\AplikasiBakery\AplikasiBakery\obj\Debug\netcoreapp3.0\AplikasiBakery.FormTransaksi.resources
+C:\Users\ZAKI\source\repos\AplikasiBakery\AplikasiBakery\obj\Debug\netcoreapp3.0\AplikasiBakery.FormUser.resources
+C:\Users\ZAKI\source\repos\AplikasiBakery\AplikasiBakery\obj\Debug\netcoreapp3.0\AplikasiBakery.Resources.resources
+C:\Users\ZAKI\source\repos\AplikasiBakery\AplikasiBakery\obj\Debug\netcoreapp3.0\AplikasiBakery.vbproj.GenerateResource.cache
+C:\Users\ZAKI\source\repos\AplikasiBakery\AplikasiBakery\obj\Debug\netcoreapp3.0\AplikasiBakery.AssemblyInfoInputs.cache
+C:\Users\ZAKI\source\repos\AplikasiBakery\AplikasiBakery\obj\Debug\netcoreapp3.0\AplikasiBakery.AssemblyInfo.vb
+C:\Users\ZAKI\source\repos\AplikasiBakery\AplikasiBakery\obj\Debug\netcoreapp3.0\AplikasiBakery.vbproj.CoreCompileInputs.cache

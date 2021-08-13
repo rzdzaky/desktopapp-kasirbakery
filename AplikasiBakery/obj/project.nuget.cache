@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "nZJ8OnHkOUvpXuvZe+hhWj4RMDgr3l9TnPvafatmeglquH6Rw6uk7gxB3X4GpGLqDE6pyzidUSyA9w8IgAkvoA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ZAKI\\source\\repos\\AplikasiBakery\\AplikasiBakery\\AplikasiBakery.vbproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ZAKI\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
+    "C:\\Users\\ZAKI\\.nuget\\packages\\system.data.odbc\\5.0.0\\system.data.odbc.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
